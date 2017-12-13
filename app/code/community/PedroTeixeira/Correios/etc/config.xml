@@ -136,6 +136,7 @@
                 <mao_propria>0</mao_propria>
                 <aviso_recebimento>0</aviso_recebimento>
                 <valor_declarado>0</valor_declarado>
+				<min_valor_declarado>0</min_valor_declarado>
 
                 <!-- VOLUME -->
                 <altura_padrao>2</altura_padrao>
